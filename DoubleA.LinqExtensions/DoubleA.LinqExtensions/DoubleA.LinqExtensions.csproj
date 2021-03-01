@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <PackageId>DoubleA.LinqExtensions</PackageId>
+        <Title>DoubleA.LinqExtensions</Title>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <Owners>Anwar Ahmed</Owners>
+        <Authors>Anwar Ahmed</Authors>
+        <Description>Library containing useful Linq extensions</Description>
+        <ReleaseVersion>1.0.0.0</ReleaseVersion>
+        <PackageVersion>1.0.0.0</PackageVersion>
+        <PackageLicense>MIT</PackageLicense>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+        <PackageProjectUrl>https://github.com/anwarahmed/linq-extensions</PackageProjectUrl>
+        <PackageTags>DoubleA, LinqExtensions, Linq, Extensions</PackageTags>
+        <PackOnBuild>true</PackOnBuild>
+    </PropertyGroup>
+</Project>
